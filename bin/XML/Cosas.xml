@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Library>
+  <collection name="Geografía e Historia">
+    <name>Geografía e Historia</name>
+    <book isbn="adc163">
+      <isbn>adc163</isbn>
+      <title>Mares del mundo</title>
+      <pageNumber>1000</pageNumber>
+      <language>Francés</language>
+      <originalLanguage>Español</originalLanguage>
+      <publisher>Nova</publisher>
+      <typeOfBook>hardCover</typeOfBook>
+      <year>1999</year>
+      <size>
+        <width>12.0</width>
+        <height>20.0</height>
+        <thickness>6.0</thickness>
+      </size>
+      <author>
+        <authorName>Rosa</authorName>
+        <surname>García</surname>
+      </author>
+      <author>
+        <authorName>Gabriel</authorName>
+        <surname>Prieto</surname>
+      </author>
+    </book>
+    <book isbn="adc164">
+      <isbn>adc164</isbn>
+      <title>Historia de Europa</title>
+      <pageNumber>5000</pageNumber>
+      <language>Inglés</language>
+      <originalLanguage>Español</originalLanguage>
+      <publisher>Lampa</publisher>
+      <typeOfBook>hardCover</typeOfBook>
+      <year>2001</year>
+      <size>
+        <width>12.0</width>
+        <height>20.0</height>
+        <thickness>6.0</thickness>
+      </size>
+      <author>
+        <authorName>Gonzalo</authorName>
+        <surname>Gonzalez</surname>
+      </author>
+    </book>
+  </collection>
+</Library>

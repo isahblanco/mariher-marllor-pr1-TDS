@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Library PUBLIC "biblioteca" "https://gitlab.inf.uva.es/mariher/dtd/-/raw/master/biblioteca.dtd">
+<Library>
+	<book isbn="abc123">
+		<isbn>abc123</isbn>
+		<title>Brown</title>
+		<pageNumber>18</pageNumber>
+		<language>Espanol</language>
+		<originalLanguage>Ingles</originalLanguage>
+		<publisher>Ladolo</publisher>
+		<typeOfBook>hardCover</typeOfBook>
+		<year>1999</year>
+		<size>
+			<width>12</width>
+			<height>12</height>
+			<thickness>12</thickness>
+		</size>
+		<author>
+			<authorName>antonio</authorName>
+			<surname>pepe</surname>
+		</author>
+	</book>
+	<book isbn="abc124">
+		<isbn>abc124</isbn>
+		<title>marronsito</title>
+		<pageNumber>18</pageNumber>
+		<language>Espanol</language>
+		<originalLanguage>Ingles</originalLanguage>
+		<publisher>Ladolo</publisher>
+		<typeOfBook>hardCover</typeOfBook>
+		<year>1999</year>
+		<size>
+			<width>12</width>
+			<height>12</height>
+			<thickness>12</thickness>
+		</size>
+		<author>
+			<authorName>antonio</authorName>
+			<surname>pepe</surname>
+		</author>
+	</book>
+	<collection name="nombreprueba">
+		<name>nombreprueba</name>
+		<book isbn="abc125">
+			<isbn>abc125</isbn>
+			<title>espania</title>
+			<pageNumber>18</pageNumber>
+			<language>Espanol</language>
+			<originalLanguage>Ingles</originalLanguage>
+			<publisher>Ladolo</publisher>
+			<typeOfBook>hardCover</typeOfBook>
+			<year>1999</year>
+			<size>
+				<width>12</width>
+				<height>12</height>
+				<thickness>12</thickness>
+			</size>
+			<author>
+				<authorName>antonio</authorName>
+				<surname>pepe</surname>
+			</author>
+		</book>
+		<book isbn="abc127">
+			<isbn>abc127</isbn>
+			<title>espania</title>
+			<pageNumber>18</pageNumber>
+			<language>Espanol</language>
+			<originalLanguage>Ingles</originalLanguage>
+			<publisher>Ladolo</publisher>
+			<typeOfBook>hardCover</typeOfBook>
+			<year>1999</year>
+			<size>
+				<width>12</width>
+				<height>12</height>
+				<thickness>12</thickness>
+			</size>
+			<author>
+				<authorName>antonio</authorName>
+				<surname>pepe</surname>
+			</author>
+		</book>
+		<book isbn="abc126">
+			<isbn>abc126</isbn>
+			<title>espania</title>
+			<pageNumber>18</pageNumber>
+			<language>Espanol</language>
+			<originalLanguage>Ingles</originalLanguage>
+			<publisher>Ladolo</publisher>
+			<typeOfBook>hardCover</typeOfBook>
+			<year>1999</year>
+			<size>
+				<width>12</width>
+				<height>12</height>
+				<thickness>12</thickness>
+			</size>
+			<author>
+				<authorName>antonio</authorName>
+				<surname>pepe</surname>
+			</author>
+		</book>
+		<book isbn="abc128">
+			<isbn>abc128</isbn>
+			<title>espania</title>
+			<pageNumber>18</pageNumber>
+			<language>Espanol</language>
+			<originalLanguage>Ingles</originalLanguage>
+			<publisher>Ladolo</publisher>
+			<typeOfBook>hardCover</typeOfBook>
+			<year>1999</year>
+			<size>
+				<width>12</width>
+				<height>12</height>
+				<thickness>12</thickness>
+			</size>
+			<author>
+				<authorName>antonio</authorName>
+				<surname>pepe</surname>
+			</author>
+		</book>
+
+	</collection>
+</Library>
